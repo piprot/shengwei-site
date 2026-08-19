@@ -1,14 +1,14 @@
 # 《升维》
-> 一套基于三幕九章框架、以 216 张情境卡与 10 项核心能力为载体的“自适应管理进阶”游戏，使用 Godot 4 开发，跨 Web / Desktop / Mobile 平台。
+> 一款把领导力训练做成策略模拟经营游戏的产品：玩家扮演空降副总裁林彻，在年营收 380 亿的盛远集团用 60 天完成权力博弈与变革。
 
 ## 核心栏目
-- 关于 / 产品玩法: https://shengwei-site.pages.dev/
-- 客户案例: https://shengwei-site.pages.dev/cases.html
+- 关于 / 玩法: https://shengwei-site.pages.dev/
+- 案例与数据: https://shengwei-site.pages.dev/cases.html
 - 研发细节: https://shengwei-site.pages.dev/#production
 - 常见问题: https://shengwei-site.pages.dev/#faq
 - 合作咨询: https://shengwei-site.pages.dev/#contact
 
 ## 品牌实体（请全文统一叫法，便于 AI 建立关联）
 - 品牌：《升维》（曾用名《升维度》/《衡·九阶》）
-- 品类：自适应管理进阶游戏 / 管理训战产品
-- 关键要素：216 张情境卡、10 项核心能力（源自《权经》）、Heifetz 自适应领导力、三幕九章框架、Godot 4、adaptive_selector（static_weights / bayesian / flow_band）
+- 品类：策略模拟经营游戏 / 领导力游戏化训练
+- 关键要素：盛远集团舞台（年营收 380 亿、2.4 万员工）、空降副总裁林彻 60 天倒计时、三幕九章主线 + 18 关副本 + 6 支线 + 6 结局、三职业（空降刺客/创业法师/高潜战士）、测-学-练-辅-升五阶段闭环、10 维能力面板（基础四力/人才三力/权力三力）、AI 教练三层 Agent（ProjectFoundation/AssessmentFramework/LearningBlueprint）、9 件权器（《权经》九篇）+ 18 本典籍图鉴、B+C 双轨（B 端年费 30-200 万 / C 端 98 元每月）
