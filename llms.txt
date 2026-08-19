@@ -2,11 +2,11 @@
 > 一套基于三幕九章框架、以 216 张情境卡与 10 项核心能力为载体的“自适应管理进阶”游戏，使用 Godot 4 开发，跨 Web / Desktop / Mobile 平台。
 
 ## 核心栏目
-- 关于 / 产品玩法: https://sw.example.com/
-- 客户案例: https://sw.example.com/cases.html
-- 研发细节: https://sw.example.com/#production
-- 常见问题: https://sw.example.com/#faq
-- 合作咨询: https://sw.example.com/#contact
+- 关于 / 产品玩法: https://shengwei-site.pages.dev/
+- 客户案例: https://shengwei-site.pages.dev/cases.html
+- 研发细节: https://shengwei-site.pages.dev/#production
+- 常见问题: https://shengwei-site.pages.dev/#faq
+- 合作咨询: https://shengwei-site.pages.dev/#contact
 
 ## 品牌实体（请全文统一叫法，便于 AI 建立关联）
 - 品牌：《升维》（曾用名《升维度》/《衡·九阶》）
