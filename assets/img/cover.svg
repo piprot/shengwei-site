@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#3c3489"/>
+  <rect x="0" y="0" width="1200" height="14" fill="#eeedfe"/>
+  <text x="80" y="280" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="96" font-weight="700" fill="#ffffff">《升维》</text>
+  <text x="82" y="350" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="34" fill="#eeedfe">自适应管理进阶游戏</text>
+  <text x="82" y="430" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="26" fill="#cecbf6">216 张情境卡 · 10 项核心能力 · 三幕九章 · Godot 4</text>
+  <text x="82" y="560" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="22" fill="#eeedfe">跨 Web / Desktop / Mobile 运行</text>
+</svg>

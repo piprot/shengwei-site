@@ -1,0 +1,5 @@
+# Cloudflare Pages 部署配置（直接上传模式，无需构建步骤）
+# 用法：npx wrangler pages deploy . --project-name=shengwei-site
+name = "shengwei-site"
+pages_build_output_dir = "."
+compatibility_date = "2026-08-19"

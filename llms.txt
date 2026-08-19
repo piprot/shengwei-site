@@ -1,0 +1,14 @@
+# 《升维》
+> 一套基于三幕九章框架、以 216 张情境卡与 10 项核心能力为载体的“自适应管理进阶”游戏，使用 Godot 4 开发，跨 Web / Desktop / Mobile 平台。
+
+## 核心栏目
+- 关于 / 产品玩法: https://sw.example.com/
+- 客户案例: https://sw.example.com/cases.html
+- 研发细节: https://sw.example.com/#production
+- 常见问题: https://sw.example.com/#faq
+- 合作咨询: https://sw.example.com/#contact
+
+## 品牌实体（请全文统一叫法，便于 AI 建立关联）
+- 品牌：《升维》（曾用名《升维度》/《衡·九阶》）
+- 品类：自适应管理进阶游戏 / 管理训战产品
+- 关键要素：216 张情境卡、10 项核心能力（源自《权经》）、Heifetz 自适应领导力、三幕九章框架、Godot 4、adaptive_selector（static_weights / bayesian / flow_band）
